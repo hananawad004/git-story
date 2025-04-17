@@ -1,2 +1,1 @@
-Chapter 1: Git from Init village
-Git was well-known for his curiosity.
+Once upon a time, in a town named "Init", lived an enthusiastic explorer named Git.
